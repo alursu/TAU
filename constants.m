@@ -4,3 +4,4 @@ Comega = 3.15;
 Lya = 0.0015;
 Rya = 8;
 Lov = 0.013;
+betta = 0.001;
