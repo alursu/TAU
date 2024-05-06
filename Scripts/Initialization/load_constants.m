@@ -1,0 +1,39 @@
+%% First Link
+Lab6.FirstLink.l1 = 0.55;
+Lab6.FirstLink.ixx1 = 16.5;
+Lab6.FirstLink.iyy1 = 16.5;
+Lab6.FirstLink.izz1 = 0.7;
+Lab6.FirstLink.m1 = 78;
+Lab6.FirstLink.d1 = 24.7;
+Lab6.FirstLink.K11 = 2330;
+Lab6.FirstLink.K21 = 2.8;
+Lab6.FirstLink.K31 = 117;
+Lab6.FirstLink.K41 = 0.043;
+Lab6.FirstLink.K51 = 94;
+
+
+%% Second Link
+Lab6.SecondLink.l2 = 0.7;
+Lab6.SecondLink.ixx2 = 9.4;
+Lab6.SecondLink.iyy2 = 9.4;
+Lab6.SecondLink.izz2 = 0.7;
+Lab6.SecondLink.m2 = 46;
+Lab6.SecondLink.d2 = 19.4;
+Lab6.SecondLink.K12 = 3880;
+Lab6.SecondLink.K22 = 2.94;
+Lab6.SecondLink.K32 = 96;
+Lab6.SecondLink.K42 = 0.044;
+Lab6.SecondLink.K52 = 156;
+
+%% Third Link
+Lab6.ThirdLink.l3 = 0.55;
+Lab6.ThirdLink.ixx3 = 16.5;
+Lab6.ThirdLink.iyy3 = 16.5;
+Lab6.ThirdLink.izz3 = 0.7;
+Lab6.ThirdLink.m3 = 78;
+Lab6.ThirdLink.d3 = 24.7;
+Lab6.ThirdLink.K13 = 2330;
+Lab6.ThirdLink.K23 = 2.8;
+Lab6.ThirdLink.K33 = 117;
+Lab6.ThirdLink.K43 = 0.043;
+Lab6.ThirdLink.K53 = 94;
